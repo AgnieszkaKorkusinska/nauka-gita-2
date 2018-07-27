@@ -1,6 +1,7 @@
 body {
 	text-align: center;
 	font-family: "Quicksand", sans-serif;
+	display: -ms-flexbox;
 	display: flex;
 }
 

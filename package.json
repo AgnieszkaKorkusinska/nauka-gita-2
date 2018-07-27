@@ -1,0 +1,26 @@
+{
+  "name": "nauka-gita-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:autoprefixer": "autoprefixer-cli -o style.prefixed.css style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgnieszkaKorkusinska/nauka-gita-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgnieszkaKorkusinska/nauka-gita-2/issues"
+  },
+  "homepage": "https://github.com/AgnieszkaKorkusinska/nauka-gita-2#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.24.5",
+    "nu-html-checker": "^0.1.0"
+  }
+}
