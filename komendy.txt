@@ -1,1 +1,5 @@
-"build:autoprefixer": "autoprefixer-cli -o style.prefixed.css style.css"
+uruchamia autoprefixer 
+node_modules/.bin/autoprefixer-cli -o style.prefixed.css style.css
+
+uruchamia html-checker
+node_modules/.bin/nu-html-checker *.html
